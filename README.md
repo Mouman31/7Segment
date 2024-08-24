@@ -1,1 +1,1 @@
-#This C code demonstrates 7segment display
+# 7Segment
